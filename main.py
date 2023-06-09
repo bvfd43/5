@@ -1,0 +1,1 @@
+print("ya sosal ")sosal
